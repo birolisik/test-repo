@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult Details()
+        public ActionResult Detailss()
         {
             return View();
         }
